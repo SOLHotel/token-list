@@ -57747,6 +57747,23 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "JBgKmQsBcpMGrUofgCwnE53FPSwoGKuBsj9F8sru3LKF",
+      "symbol": "NUFI",
+      "name": "NU-Finance",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/SOLHotel/nufi/main/nufi.png",
+      "tags": [
+        "dex-cex",
+        "finance-token"
+      ],
+      "extensions": {
+
+        "twitter": "https://twitter.com/nufi_official",
+        "website": "https://nu.fi"
+      }
     }
   ],
   "version": {
